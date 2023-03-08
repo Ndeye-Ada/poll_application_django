@@ -7,7 +7,7 @@ if you want to run this application, you just need to run the docker compose usi
 
 - docker compose up
 
-after you throw this link in your browser http://0.0.0.0:8000/
+after you throw this link in your browser http://localhost:8000/polls/
 
 
 
